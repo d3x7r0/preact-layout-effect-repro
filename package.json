@@ -1,0 +1,17 @@
+{
+  "name": "preact-layout-effect-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel --no-autoinstall index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0-alpha.2.1"
+  },
+  "dependencies": {
+    "preact": "^10.0.1"
+  }
+}
