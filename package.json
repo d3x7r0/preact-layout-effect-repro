@@ -12,6 +12,6 @@
     "parcel": "^2.0.0-alpha.2.1"
   },
   "dependencies": {
-    "preact": "^10.0.1"
+    "preact": "^10.3.2"
   }
 }

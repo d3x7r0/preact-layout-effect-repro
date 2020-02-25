@@ -4229,10 +4229,10 @@ posthtml@^0.11.3:
     posthtml-parser "^0.4.1"
     posthtml-render "^1.1.5"
 
-preact@^10.0.1:
-  version "10.0.1"
-  resolved "https://registry.yarnpkg.com/preact/-/preact-10.0.1.tgz#16451887a8490dd534d60d1bc7d2ff4a70f7e0ee"
-  integrity sha512-lq7jo1rwwCd1YkiBcuOxRc3I0y1FZACa6O7tgNXt47QZJtSlLEE53f/FDNsLtiB2IVQTHbaey20TjSPmejhDyQ==
+preact@^10.3.2:
+  version "10.3.2"
+  resolved "https://registry.yarnpkg.com/preact/-/preact-10.3.2.tgz#1dabd1747b54de4e6820c7d2eadbb8bc4c2e3047"
+  integrity sha512-yIx4i7gp45enhzX4SLkvvR20UZ+YOUbMdj2KEscU/dC70MHv/L6dpTcsP+4sXrU9SRbA3GjJQQCPfFa5sE17dQ==
 
 prebuild-install@^5.2.5:
   version "5.3.2"
